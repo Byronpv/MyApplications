@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Applications</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="heigth">Altura</string>
+    <string name="height_centimeters"> %1$s cm</string>
+    <string name="weight">peso</string>
+    <string name="number_wight">60</string>
+    <string name="height">Altura</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="title_activity_calculate_imc">CalculateIMC</string>
+    <string name="your_result">Tu resultado</string>
+    <string name="normal">normal</string>
+    <string name="re_calculate">Re calcular</string>
+    <string name="bajo_peso">se encuentra dentro del rango de peso insuficiente.</string>
+    <string name="peso_saludable">se encuentra dentro del rango de peso normal o saludable.</string>
+    <string name="sobrepeso">se encuentra dentro del rango de sobrepeso.</string>
+    <string name="obesidad">se encuentra dentro del rango de obesidad.</string>
+    <string name="status_bajopeso">Insuficiente.</string>
+    <string name="status_peso_saludable">Normal</string>
+    <string name="status_sobrepeso">Sobrepeso</string>
+    <string name="status_obesidad">Obesidad</string>
+    <string name="error">error 404</string>
+</resources>
